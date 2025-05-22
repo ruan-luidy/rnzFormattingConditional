@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36119.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rnzFormatting", "rnzFormatting\rnzFormatting.csproj", "{D21D09B6-A13D-44B3-8C8E-BD57BA67004D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rnzFormattingVSTO", "rnzFormattingVSTO\rnzFormattingVSTO.csproj", "{6E536AF5-9FFD-41F1-A825-2A8A58502A12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D21D09B6-A13D-44B3-8C8E-BD57BA67004D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D21D09B6-A13D-44B3-8C8E-BD57BA67004D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D21D09B6-A13D-44B3-8C8E-BD57BA67004D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E536AF5-9FFD-41F1-A825-2A8A58502A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E536AF5-9FFD-41F1-A825-2A8A58502A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E536AF5-9FFD-41F1-A825-2A8A58502A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E536AF5-9FFD-41F1-A825-2A8A58502A12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

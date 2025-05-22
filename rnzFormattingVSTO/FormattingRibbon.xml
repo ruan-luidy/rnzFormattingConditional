@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+	<ribbon>
+		<tabs>
+			<tab id="RnzFormattingTab" label="RNZ Formatting">
+				<group id="FormattingGroup" label="Formatação Condicional">
+					<button id="FormatarLimites"
+                  label="Formatar por Limites"
+                  screentip="Formatar Células por Limites"
+                  supertip="Formata células com base em valores mínimos e máximos especificados."
+                  size="large"
+                  imageMso="ConditionalFormattingColorScales"
+                  onAction="OnFormatarLimites" />
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
